@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shyam Bihari Sharma</h1>
+<div align="center"> <img src="[https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner2.png](https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png)"> </div>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/shyam7732/shyam7732/main/leftImg.gif">
 
