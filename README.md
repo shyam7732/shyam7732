@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shyam Bihari Sharma</h1>
 <div align="center"> <img src="[https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner2.png](https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png)"> </div>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/shyam7732/shyam7732/main/leftImg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam7732&label=Profile%20views&color=0e75b6&style=flat" alt="shyam7732" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sb_sharma7732" target="blank"><img src="https://img.shields.io/twitter/follow/sb_sharma7732?logo=twitter&style=for-the-badge" alt="sb_sharma7732" /></a> </p>
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, ReactJS, ContextAPI, Redux**
+- 💬 Ask me about **HTML, CSS, Bootstrap,Tailwind CSS, JavaScript, JQuery, ReactJS, ContextAPI, Redux, NodeJS, MongoDB**
 
 - 📫 How to reach me **sbspersonal2000@gmail,com**
 
