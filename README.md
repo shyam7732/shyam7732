@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
+<p align="center"> <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -83,9 +83,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyam7732&show_icons=true&locale=en&layout=compact" alt="shyam7732" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyam7732&show_icons=true&locale=en" alt="shyam7732" /></p>
+<p align="right">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shyam7732&show_icons=true&locale=en" alt="shyam7732" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam7732&" alt="shyam7732" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam7732&" alt="shyam7732" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shyam7732&limit=5&theme=flat&combine_all_yearly_contributions=true)
